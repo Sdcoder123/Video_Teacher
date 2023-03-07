@@ -1,5 +1,5 @@
 # Video_Teacher
-It's Summarise the video into short text
+It's Summariser the video into short text
 
 
 # YouTube-Video-Summariser
